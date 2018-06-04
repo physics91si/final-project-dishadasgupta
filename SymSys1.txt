@@ -1,0 +1,382 @@
+**Bias check: I did very well in this class.** If you are a SymSys major and are thusly compelled to take this course, take it with a friend, find a decent TA, and do the psets in office hours. Grin and bear it, as it is a necessary evil. Just know that the teaching staff doesn't talk about psets before creating and publishing them, are frequently unable to answer questions because "I didn't write the question," admit they don't fix or address problems from previous years, and has absolutely no leadership (@Paul). 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+A broad but superficial introduction. Lectures were not engaging. I learned the most from my TA in discussion. Many concepts will make more sense if you have background in CS (say 106a, 103, 109), but you definitely don't need that knowledge to do well. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+A good option for a humanities student looking to explore a class for their FR 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+A lot of overlap with material from PHIL80 and CS103. Take into account the lecturer when you take it; this quarter seemed to be a lot more focused around philosophy/that type of framing since Skokowski is a philosopher. If you enjoy a bit of philosophy though and you haven't taken PHIL80 and CS103, then definitely very interesting content. You're introduced to a lot of important ideas and many of the people (at Stanford!) who helped bring those ideas to fruition. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+Absolutely take it! It’s an incredible course. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+All of my friends who didn't do the readings, did better than me. AKA don't try. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+Be prepared to do a lot of readings and attend OH. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+Be ready for a professor that does not have a good understanding of how students learn new concepts effectively. The course material is incredibly interesting, but Paul fails to create concise, non-contrived slides and presentations that allow students to follow the direction of the course material successfully. Much of your learning will be done through your TAs who put the material forward in a more simply, student-friendly format. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+Be sure to attend section, and try to find an engaging section leader. Lectures are not necessary if you look at the slides. Homework is fairly straightforward and office hours are helpful. You will learn as much as you want to learn, but can get by with very little. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+bleh. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+Boring and confusing lectures. Paul rambles on for a long time about really philosophical concepts and doesn't leave students with a clear takeaway or way of connecting concepts together. TAs also really vary in quality. Shop a bunch of sections in the beginning to find one who knows what they're talking about 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+Bring a cold drink to lecture and try to take good notes. It will help you stay alert and do better on hw and finals. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+Class content is influenced by the professor's speciality/field, so take that into consideration before enrolling. Would not recommend taking it if not to satisfy the major's requirement. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+Class is worthwhile, although can be a little dry and dull at times 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+Confusing experience. The course touches on a wide range of topics, and some are more interesting than others. Most leave you conflicted because the homework takes a "right or wrong" approach when even the TAs acknowledge that there isn't really a right or wrong. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+Covers a lot of concepts with confusing lectures, essay grading felt very subjective. I would only take this if required. Go to office hours regularly to double check your understanding 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+Covers a lot of material at a very shallow level 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+Definitely take it even if you are not considering to major on Symbolic Systems. Great course! 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+Definitely take it! 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+Definitely take it, offered very interesting perspectives on the world that are hard to grasp without interactive discussion. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+Do not take this class. This class is poorly taught, sets you up failure, and the material is nonsensical. Especially do not take because it seems like an accessible FR class for the humanities (ie is listed as a humanities gateway course). This is not at all accessible for someone coming from a pure humanities background. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+Do not take this course if you do not need it! Lectures are boring. You learn more from TA section! 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+do readings for psets. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+do the reading! it is engaging and so helpful 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+do the readings it really helps 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+Don't take it unless a) you're a symsys major/minor or b) you're very interested in philosophy. With Paul (a philosopher) teaching this class, it has nearly nothing to do with linguistics/computer science and little to do with neuroscience, so it is not an effective overview of the symsys major. Do NOT base your opinion of the symsys major on this class. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+don't take it unless you have to for a major 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+don't take it unless you have to for a requirement of your major. If it is to fulfill a WAYS requirement, i suggest taking a different course. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+Don't take it. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+Don't take this course unless it's about of absolute necessity. Paul is a really nice/caring instructor who will go out of his way to help you, but the lectures were just very mundane and convoluted (80 slides of black and white text and read off of them) so about half the people never showed up. The entire course was basically about philosophy, and how philosophy related to psych, linguistics, and CS, and it was frustrating since philosophy is so subjective and a portion of Symsys I'm not too interested in. Many of the readings were dense, esoteric, and ambiguous, homework problems were confusing, phrased badly, and even the TAs disagreed on the answers. The "correct answer" was arbitrary, so what one TA deemed correct another wouldn't, and some graded much more harshly than other (not standardized). Multiple choice were not designed for partial credit, so many people I know got B's/C's on assignments just for getting one multiple choice question wrong. One time I went to 3 different office hours, and got 3 completely different answers for how to respond to the same free response question. In a way when I wrote my free response answers, I felt like I was playing Russian Roulette, trying to decide statistically which interpretation was agreed upon by the highest percentage of TAs. Another time a TA spent about 20 minutes with me on a problem, and I used the ideas we talked about on the question, and I ended up getting a 0/6 on the question. Another time me and one other person had the same fundamental answer and I got all the points whereas the other person only got half. Another time I heard someone come into office hours because a TA had read one of their answers before it was graded and said the answer was good, yet that person ended up only getting half credit on the question. The class isn't super hard or time consuming, it's just frustrating, disorganized, and annoying. I don't want to be super hard on it because I know it's really hard class to teach since it covers so many topics, and I respect the professor/ most of the TAs as people, but it just wasn't put together well and caused a lot of headache for minimal learning. Most people I know didn't really like it. I did learn a lot about different philosophical concepts though. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+don't. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+Due to its very interdisciplinary nature, it goes into shallow depth in any one area so it feels like you don't learn much. The lectures are a little dry as the professor tends to assume you have prior technical experience. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+Due to the nature of the class, this course lacks any type of depth and it is difficult to derive much knowledge from it. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+For people looking for taking this as a psych class, it's more philosophy than psychology. Can be a little dry and hard to get through readings if theories and philosophy is not your thing. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+gives you a very broad overview of different topics, feels very dis-jointed. lots of philosophy. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+Go to lecture or do the readings. Not both 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+go to lecture, office hours, do the readings 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+Go to office hours (and class). The homework questions are pretty opaque and you will need the TA's to interpret what they are asking; knowledge of the material doesn't automatically translate to being able to answer the questions. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+go to office hours and section, lecture isn't super necessary if you can get someone to explain it to you one on one 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+Go to office hours. Very useful for the quizes. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+Go to sections. They really clear up the concepts. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+Good course - lots of interesting material 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+Good intro to wide variety of topics in SymSys 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+good take it 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+Great course, lots to cover, but section and lecture are very clear. Homework is totally reasonable. Major plus— no midterm!! 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+homeworks are fair - go to office hours because the TAs are helpful, no midterm and take home final 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+I didn't find the lectures very useful or well structured 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+I don't really recommend this unless you are really into philosophy of the mind and can handle a somewhat disorganized and not super interesting class. Also, I would only take this if you are definitely interested in majoring in SymSys or need this for a class. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+I think sections are more helpful than lectures 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+I think that this course gives a very brief overview into the different aspects of the Symsys major and does not completely represent every single concentration. Hence, while it may be heavily focused on, per say, philosophy, it does not illustrate what the major completely entails. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+I would definitely recommend SymSys 1, because you learn a lot and get a good overview of many of the concepts involved in the major 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+I would highly recommend not taking this course if it is taught by Prof. Skokowski. The material has the potential to be fascinating, but he manages to make it dull and confusing. The TAs were excellent: go to section. Guest lecturers were all fantastic. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+I would only take this course if you are considering SymSys as a major or if you are looking for a low commitment 4 unit class. It was personally useful for me in discovering what parts of the course I liked and disliked, and ultimately helped me decide SymSys wasn't for me. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+I would recommend taking this class. It is not very difficult, but the homework assignments are long and boring and the topics covered are not super exciting. Paul just reads off the slides, so you don't really have to go to class. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+I would recommend this course as a good introduction to the philosophy of mind 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+I would recommend this course to all students, regardless of whether or not they are considering a major in SymSys. As someone who leans more towards the social sciences, I found it to be a really interesting introduction to the field of cognitive science and artificial intelligence. I would also highly recommend taking it with Professor Paul Skokowski. He makes the course material highly approachable but interesting at the same time. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+I would tell a student to make sure to attend every single lecture because missing even one class would put them at a disadvantage. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+if it's not a requirement, i would not necessarily recommend it. the lectures, while interesting content, essentially consist of Professor Skokowski reading off of the slides, sometimes without explaining unknown concepts 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+If Skokowski is teaching it, be prepared to be smothered in extremely obnoxious and self absorbed references to him having attending Oxford. If there is one thing that I'll never forget from this class, it's that he attended that university. We actually started a running count of the amount of times that he would say the word. One class, the count go to 16. He was an obnoxious man that felt the need to brag about his own achievements rather than focusing on teaching the material in a simpler, better manner. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+if you are taking it for psych, do yourself a favor and donʻt. this class is more theory based and has little to do with psychology. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+If you read the SymSys major description and are genuinely interested, this course will be for you. Awesome introduction, the content is lovely. I wished the slides were more logically organized in terms of a theme (sometimes it was hard to connect all the dots and see how previous topics related to current ones, and it wasn't made clear, for example, that dualism had many subsets/generally, more visuals would be welcome). Use the TA's/section for the psets!!! So helpful, especially since some pset questions can be weirdly worded. Oh, and do the reading—it's interesting :) 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+If you stay on top of the concepts, this is an extremely rewarding and thought provoking course. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+If you're interested in philosophy it's a great course, but it can be very dry if you're looking for more practical stuff 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+Important to attend lectures as the readings may get too dense at times. Sections are very very useful for understanding the material more intimately 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+Interesting concepts and the workload is not that intense. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+Interesting content but poor instruction. Sections are the most helpful and informational aspect of the course 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+Interesting content, if you don't have background knowledge on theories of mind, computation theory, language theory, or else a lot of the content will be repetitive. With Paul, you get just as much from reading off the power-point slides. I would recommend going to guest lectures, there are about 5, for both your grade and interest. I did most of my learning completing the homework. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+Interesting topics -- not the most exciting and sometimes confusing lectures. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+interesting, but a superficial overview of topics 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+It attempts to cover a lot of material in a short time (which perhaps cannot be avoided due to the interdisciplinary nature of the SymSys major), and at times it can be difficult or frustrating to try to apply and understand all the topics in a larger context. Overall interesting stuff though. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+It covers a broad range of subjects across many philosophy and Computer Science fields. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+It has high level concepts that are broad and don't necessarily connect all the time. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+It is a cool and fairly easy introductory course to symbolic systems. Some concepts are hard but overall an interesting class if you want to know more about the connections and theories of minds versus/and machines. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+It is an interesting class, but it is very broad. It is a good introduction to see if you like a philosophical class, though. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+It is hard to learn concepts during lecture. Office hours and discussions are the only way to actually learn. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+It is possible to do well in the class without going to lecture and just doing the homework. That being said you will get so much more out of really engaging with the readings and going to class. Most of the material is actually really interesting and worth investing the time in. Also some of the guest lectures are amazing and you should go to them. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+It is very hard to understand 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+It seems this class's focus and quality largely depends on the professor. Assuming Prof. Skokowski is teaching it again, avoid this class if a lot of details about philosophy are not your cup of tea. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+It's a broad survey course in which you'll touch on many topics and go into detail in few, but the content is definitely interesting and a good prelude to deeper explorations of the topics in later CS/psych/phil classes 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+It's a great class to learn more, but it's not very involved. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+It's a great introduction to all the tech buzz surrounding Stanford. Lots of great guest lecturers. Thought probing readings. The weekly homework can be worded strangely sometimes, just don't overthink it. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+It's a lot of work 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+it's a pretty messy class with a lot of disjointed concepts/topics that you will have to make the connections between. put in the necessary effort and seek out classmates and TAs who will help you make those connections 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+It's definitley what you make of it. You can easily get an A without doing any readings, as long as you pay attention in class and section. The readings are hard and only rewarded by self-gratification. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+It's important to do the readings. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+It's interesting, but kind of all over the place. I guess that's sort of the nature of an introductory course to an interdisciplinary major, so I don't fault the instructors for that. I'd just say keep that in mind as you go into it. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+It's like philosophy without the discourse--don't take it unless you have to. If you want to learn about minds, take PHIL 80 and/or PSYCH 1; machines, take a good CS course; read a decent overview of the computational theory of mind (Stanford Encyclopedia of Philosophy has a very good one) and you're done. If you want to understand a bunch of stuff shallowly, take this course; if you want to really know something, take the sequence described above. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+It's not a good representation of SymSys because it's such a broad overview. Only take it if you're in the major. Otherwise, you still liearn some pretty helpful concepts and it's a good introduction to thinking about things philosophically. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+It's not great, but if you have to take it for a req, then that's that. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+It's not truly what SymSys is like, but it's required for the major. Can be tricky at times so make sure you stay on top of the PSETs and go to office hours. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+It's required to declare, so you kind of just have to get through it. It's actually a pretty cool opportunity to explore a lot of questions in philosophy / artificial intelligence / psychology if you're interested enough, and the homework is pretty reasonable. It's main flaw is just that it covers areas of philosophy / computer science / cognitive psychology that are really hard to grasp unless you already have a background from classes like CS103, and the lectures are disjointed and bland. Find friends in the class to discuss the material with! 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+It’s certainly oversimplified, but you can still get a lot out of it if you do the readings and pay attention in lecture/discussion. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+its not a great class 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+Its pretty boring 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+Lectures are basically a reading off of the slides. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+lectures can sometimes be a little boring 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+lectures could be be better organized/have better flow, but interesting content 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+Make sure you do all of the readings because they will get to you in the end.
+(with Skokowski, Paul G, 2017/2018, Autumn)
+Make sure you do the quizzes early and read the papers. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+make sure you're in a good section 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+My mans, make sure you prepared to have class ideas of functional externalism shoved down ya throat. You probably like NNs too much anyway, so why am I worrying you, it's not like people who rly care about personal interactions rly take this class too much (save for ya'll psychologists) 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+Not a good course to learn if symsys is right for you. Take other classes, maybe CS106A/B or Phil1/2 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+Not a very cohesive class material-wise. Sometimes confusing and you will wonder what the topics have to do with each other, though individually they are all super interesting. Guest speakers were all very interesting! 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+Not a very exciting course 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+not indicative of the SymSys major, don't be discouraged 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+Not really a worthwhile course for someone who is already set on the sym sys major. Redundant and not enlightening. Not an engaging course to encourage sym sys declaration. The class reduced the content for the sake of simplicity so much it began to distort the content. (especially with philosophy of mind) 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+Not representative of the Symsys major. Saw this class as a number of lectures, without any overall theme or organization. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+Obviously this is required for the major, but it also feels quite scattered at times, and it's not entirely clear why these specific concepts were put together. The topics in philosophy of mind are interesting. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+Only take if you are seriously considering the Symbolic Systems major. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+only take it if you need to 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+Organized, PSet's kinda hard, TA's nice, good expectations of students. Biggest takeaway of the class -- Really enjoyed Paul's lectures, feel like I learned a lot about his time at Oxford— did you know he went to Oxford?? Hope his son is enjoying Harvard— oh did you know his son goes to Harvard? :^) I was suprised there wasn't a question about Oxford on the final since he talked about it so much! 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+Paul isn't the most engaging lecturer and lectures aren't necessary to attend. The homeworks are straightforward--answers are on the slides that he posts online. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+Paul's lecturing is a tad scattered, and he often only reads from his lecture slides which aren't very descriptive. But the slides are all posted on Canvas and the concepts can be researched if you need to learn more before finishing the psets. Take it with some friends so you don't get lost! 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+really great class! 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+Review the slides and the readings for the psets, as well as paying close attention/taking notes in section and office hours, and you'll learn a lot. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+Skim the assigned readings for main ideas and focus your energy on figuring out concepts yourself by using Stanford Encyclopedia of Philosophy, Wikipedia, internet searches. Perhaps find a more structured cognitive science textbook or something like that to make up for the lack of structure in this class. Be prepared for disjointed topics and bridging the connections yourself. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+Skokowski is a solid lecturer, and I personally found the subject material really interesting on average. PSETs are super easy and short, so this is a solid class if you're interested in any of the SymSys areas at the surface level. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+Some of the topics covered in the course are incredibly interesting, but the teaching is very dry and unengaging. Additionally, the homework assignments are very opaque and unnecessarily confusing. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+Supremely interesting topics, not very cohesive or well organized. Would definitely recommend though, awesome stuff to learn. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+Surprisingly bad class; disorganized, poor content delivery, consistently ambiguous and/or poorly worded questions on homework assignments. Not sure how they managed to make such seemingly interesting subject matter so insipid and dull 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+SymSys 1 this quarter seemed much better than all the reviews I'd heard previously. It's a really interesting survey course that (necessarily) doesn't go too deep into any one topic but gives pretty solid introductions to a lot of topics. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+Take it 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+Take it and be on top of the psets! 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+Take it and go to lecture. It's honestly easier than not going to lecture and spending extra time on homework. Do homework in class maybe. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+Take it but make sure you go to the guest lectures because they are actually super cool. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+Take it early 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+Take it if you are looking for an overview course about the very wide SymSys discipline. Do not expect a detailed course on specific subjects. It will be more like a taste of everything. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+Take it to major in Symsys, but don't take it for intellectual stimulation. This class is somewhat dull. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+Take it with Paul. He's really chill and is an interesting lecturer 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+Take it with Skokowski as opposed to Lassiter et.al., it makes more sense with an emphasis on philosophy. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+Take it! It's a good survey overview. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+Take it! There are really cool, interesting guest lecturers. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+Take it!! 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+Take it!!! Go to different office hours the first week and find TA OH that work for you. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+Take this class if you’re a symsys major or want a good way to get an FR by taking an interesting subject 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+The assignments are usually pretty confusing - would highly recommend going to OH just for clarification questions and such. The reading is difficult and long usually. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+The class seems to be very geared toward the professors area of interest. It definitely skews the presentation of symsys. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+the concepts are cool but it is hard to walk away with a sense of how they all fit together. the psets are also just really frustrating to get through. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+The content can be a little dry and abstract, but the course itself (in terms of workload, etc) isn't bad! 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+The content of this course is very interesting. Make sure to do the reading because that is where most of the knowledge is to be gained. Should you do the reading, lectures are almost redundant because nearly those exact same things are discussed and the professor pretty much reads of the slides so you can get by without attending lectures. Section is also an interesting place for discussion if you have section members who are interested in the course, do the reading, and partake in discussion. Section leaders aren't the most helpful, especially when sticking to the agenda because they repeat what was covered in lecture. Homeworks didn't necessarily teach much, but they were helpful to surmise what was covered that week. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+The course content is independently interesting, but the organization is very unfortunate. It starts off with a fairly strong grounding in philosophy, but then it spirals into a jack-of-all-trades-and-master-of-none survey of a bunch of tangentially related and often repeated content. Problem sets are very confusingly worded, and there were multiple glitches with grading, as well as some inconsistencies with giving scores. In response to student complaints, the teacher simply said "don't worry, be happy" and that "the course will be graded on a curve"---an entirely non-answer. It's a very easy class, though. There is no midterm. Final is take-home and open everything, and there are office hours for it. Time commitment is low. Even if you don't do the readings, lecture/section summarizes them for you anyway. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+The course deals with a lot of information, but if you focus on the big ideas of the course and put in effort on your weekly assignments, you'll be fine for the final. Try not to do the course mechanically; that is, actually think about the topics you're learning, because they're actually pretty interesting. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+the course is all over the place, do not take if you don't have to. However, the set up of the grading make it pretty easy to get an A (65% homework, 9% section attendance, 24% take-home final) 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+The course is scattered, and even someone who is both a physicist and philosopher like Paul Skokowski struggles to cover all of it. Try to get the most out of it from an information level, as it contains some fascinating topics (including some great guest speakers). Just don't expect the course to be focused. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+the guest lectures are really cool 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+The lectures are really dense and the pace goes very fast, so don't worry if you don't grasp or write down every part of lecture. Go over the lecture slides after class to see what you missed. It's normal to get burned out after the first half of lecture because it's a lot of material per class. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+The lectures are sometimes dry, but some of them are genuinely interesting (like any on artificial intelligence). Be advised that Prof. Skokowski puts quite a great deal of emphasis on philosophy and philosophical concepts. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+the readings can be quite interesting and thought provoking; do them and pay attention in class and you can get a lot out of your time. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+The speakers can be interesting; it's important to get a good TA; push for Piazza to be included 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+The subjects taught depend on the professor. It was interesting but I did not get a lot out of it in the end because I don't need it for my major and thus I was not truly invested 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+The topics considered in this course are conceptually interesting, but some of the readings are dry and/or not accessible to people outside of more technical or logical fields. The instructor is knowledgable and makes earnest attempts to remain engaging, but after a while I found that either he or the material grew less engaging. People who seemed to be interested in topics of minds, machines, AIs, programming, etc. are likely to be more interested than, say, Psych majors as it provides little psych material. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+The weekly assignments are challenging so use office hours a lot. Also you will learn a lot but the class is quite disorganized so you should expect that.
+(with Skokowski, Paul G, 2017/2018, Autumn)
+There are a lot of concepts and it becomes increasingly difficult to get a hold of all of the concepts continuously referenced throughout the class if you're not attending discussion. Discussion is extremely helpful in applying order to the chaos that this class can become, not because of any failure in teaching, but rather because, as an introductory class, the wide range of material covered can be incredibly daunting. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+There are definitely more interesting classes on minds and machines; I would recommend this only if you have to take it as a requirement 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+There is a lot of philosophy in this course, and I understand that's not for everyone. However, I enjoyed it a lot as I've always been interested in cognitive theories. The guest lectures are great ways to discover different aspects of the field. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+this class covers a lot of broad material, it would probably be helpful to have a little background in neuroscience or philosophy to get more out of it, but it is definitely an introductory class and accessible to students who have never been exposed to cognitive science 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+This class is a solid overview of philosophies of mind, with a fairly shallow focus into many topics. It's a decent class; fairly engaging readings/lectures and not too much homework. Paul teaches more heavily on the philosophy side - almost no computational theory or linguistics. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+this class is annoying. Not too difficult but frustratingly stupid at many points. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+This class is primarily a philosophy class. Simple weekly assignments but make sure to thoroughly explain your arguments! Not too bad overall, just can be a little picky/annoying at times. Both lecture and readings are not essential, so I recommend picking one. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+This class is something you should only take if it is required and even then see if there is anything else that can be taken in its place. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+This class is very interesting. I absolutely loved the guest speakers. It becomes more meaningful once you do the readings. Take advantage of office hours. Overall, I had a great experience with this challenging yet chill class 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+This class presents many different subjects in an attempt to give a broad overview of the subjects of SymSys, but in practice does not cover any of them well enough to be interesting. With the exception of the final exam, the assignments mainly ask that you regurgitate the material in the readings and do not encourage you to make your own arguments and think about the topic for yourself. If Prof. Skokowski is teaching the class, be prepared for very boring lectures. I have never fallen asleep in any other class, but I found it impossible to stay awake while listening to the lectures in this class. The guest lectures were really interesting though, and the topics themselves are very interesting, just not taught well. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+This class serves as a fantastic introduction to the Symbolic Systems major. I only wish this class was taught in the winter or spring so students interested in Symbolic Systems as a major don't have to know before entering Stanford or wait until they are an upperclassman to take it. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+This course could be organized better. Some of the lectures were admittedly a bit dry. Guest lecturers such as Andrej Karpathy and Bill Newsome were very interesting, and the course content I found to be very engaging; however, a lot of the philosophical ideas are glossed over rather quickly, and it doesn't feel like we have the proper context at times to understand some of the philosophical readings that use more technical terminology, especially as a freshman. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+This course is a bit sketchy. Paul tries his best, but sometimes the topics can be dry as a whole. The speakers near the end of the class were really interesting, but the first two were pretty dry. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+This course is a survey of topics in symbolic systems. So, do not expect a great depth of the material, but do expect to do a decent amount of reading. Readings go more in depth than lectures due to the volume of material that needs to be covered in lectures. That being said, sometimes the readings were a bit difficult to get through (i.e. the philosophy papers) and I sometimes found it useful to do the readings after the lectures, once they had been discussed in class. The nature of this course does change dependent upon the instructor. In this case, Prof. Skokowski is a philosopher so the content of this course skewed in that direction. The guest lectures were pretty sweet in regards to having experts talk about their field and also seeing the different areas in which SymSys can be applied. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+This course is not taught very well, and the material is often difficult to process. I would only recommend taking it if you are interested in Symbolic Systems as a major, although I'm not sure how sufficient of an overview it actually provides on the major. Problem set questions were poorly phrased and esoteric, TAs were hit or miss in terms of helpfulness, and lectures were confusing and disorganized. The material has the potential to be interesting, but it was not presented in a productive way in this class. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+This course is way less than 4 units. Depending on your interest level, you could make this course almost like a 1 unit, but if you're actually interested in the subject material you can make it more involved and it's pretty cool. A lot of people give this course a hard time for being a joke/disorganized, but the material is actually pretty interesting. If you view this more as a series of interesting lectures and discussions (as opposed to a formal class) you will really enjoy this, especially if you are considering majoring in SymSys. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+This course was a disappointment in terms of content, instruction, and organization, and leaves me wondering how such a course still exists. The content is scattered, and hardly overviews what symbolic systems are and and what they mean for the world. For example, simply listing topics lecture-by-lecture does not show students how these topics beautifully interlink. While I appreciate the effort to invite guest speakers, the guests had little-to-no context for tying their research into the course's deeper purpose, and so their lectures delivered isolated content. Then, the course lecturer unfortunately prepared a barebones delivery of material (often reading slides, leaving plenty of time to reference his time at Oxford and/or Harvard). Plus, he did not focus on how the course topics worked together at different levels of intuition, missing the fundamental point of this course: a variety of perspectives from different disciplines come together to form the interdisciplinary field that is symbolic systems. With that said: please be sure to understand why you are taking this course. There are a few reasons, including: a desire to learn out of interest, the requirement to declare a Symbolic Systems Major, or the option to use this course toward your Major's requirements. If you expect to learn interesting concepts about cognitive science or the key thought processes behind symbolic systems, this is not the optimal course to do so in. Instead, I would recommend looking into introductory cognitive science courses offered elsewhere. If you are taking this because it counts toward your Major (outside of Symbolic Systems), then I would advise choosing otherwise. If you are taking this because it is required for Symbolic Systems, I understand and wish you the best. As far as I know, there is no exception to this requirement, and I hope that taking this course will not change your desire to pursue Symbolic Systems as a Major. Either way, the assignments are straightforward and easy enough to do simply by attending required sections each week. Most of the time, the section notes are directly related to answering the given week's problems. What might be worthwhile if you are a Symbolic Systems Major (or want to be), is petitioning for a removal or replacement of this course requirement. Students pursuing such an interesting and important field deserve a more enjoyable, more challenging, and more thoughtful introduction to it. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+This is a relatively easy course so long as you either do the readings or go to lecture, and the subject material is overall very interesting and applicable, especially during this time period in silicon valley. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+This is a very interesting and cool course. There is a lot of material so it takes extra time outside of lecture and section to really understand every aspect. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+This is a very interesting course that will inform a lot of your ideas going forward, particularly in psychology. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+This is not a good introduction to what I know the SymSys major to be. If you need to take it, it's a doable class, but you won't learn much (and what you DO learn isn't very relevant to anything else) and the class is NOT fun 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+This was much more philosophical than I was expecting. You might consider that a turnoff—but I was not only pleasantly surprised (lowkey I initially only took this class to fulfill the FR WAYS requirement), but I got very invested in the material as the class went along. Paul's slides are so lucid—like, ridiculously lucid; you honestly could read them and you'd be fine, because he has a way of explaining these very lofty and abstract concepts in the simplest of language, which is a huge benefit for someone like me who wishes they had more exposure to philosophy than they did during their Stanford career. Overall, the ideal class to fulfill the FR requirement; the homework assignments are not much work at all, the final is very workable, and the lecturers are super interesting. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+Topics are very self-study and learning. Don't expect lectures and readings to be able to learn. One must be able to seek out office hours in order to truly understand and connect topics throughout the quarter. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+Try to go to all the lectures. The readings aren't as important to getting a good grade, but they're extremely interesting if you actually want to learn cool stuff 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+Unfortunate that this is a class people have to take as an introduction to the major. The professor changes with the quarter so there is somewhat of a lack of consistency in what is taught/emphasized, the TAs do their best but there is seemingly a lack of leadership because there are systemic issues spanning multiple quarters of this class that have yet to be resolved, there is also a lack of communication and cohesiveness across TAs when it comes to section material, grading, quiz question creation, and so on. The guest lecturers can be interesting but otherwise the class was not worth attending. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+Unless you are set on being a symsys major, I would reconsider taking this course. I don't know exactly what I want to study, but this class definitely did not encourage me to pursue symsys. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+very interesting class; however, all the information is jumbled so sometimes it's hard to see a consistent structure 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+very interesting material 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+very interesting material, not the best instructor but still a great deal to learn, definitely go to TA's office hours because they help you so much with weekly assignments and understanding of concepts 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+Very interesting philosophical topics...but be prepared to read a lot 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+Very little work as a class, but lectures are dry and material is too scattered. Homeworks are short but at the same time are pretty hard to understand. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+We go over a lot of difficult material on a very superficial level, which can be frustrating, but pay attention to what parts of the course jump out to you and let that guide your course choices in the future 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+weekly quizzes are worded poorly so even when you understand content, it's hard to figure out what is being evaluated lectures are pretty long (the joke of the day helps) and a lot of content is redundant/repeated 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+Would recommend 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+Yes take it yesss 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+You could get by this class without doing the readings, but then you'd end up at the end of the quarter without a solid foundation of the theories you learn. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+You get out what you put in. This is an interesting class that can teach you a whole lot if you pay attention 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+You must have a good background on philosophy since a lot of the terms are not easily explained. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
+You need to have a certain level of interest in both science and philosophy to do well in this class. It is very easy to focus on one side that you gravitate towards, which will only make it more difficult to grasp all the concepts. Lecture moves pretty fast and can be pretty hard to follow, so make good use of section and office hours. 
+(with Skokowski, Paul G, 2017/2018, Autumn)
